@@ -1,0 +1,25 @@
+[Sun Mar 23 16:19:07 2014] [warn] pid file /var/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 23 16:19:07 2014] [notice] Apache/2.2.22 (Ubuntu) PHP/5.3.10-1ubuntu3.10 with Suhosin-Patch configured -- resuming normal operations
+[Sun Mar 23 16:19:54 2014] [warn] pid file /var/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 23 16:19:54 2014] [notice] Apache/2.2.22 (Ubuntu) PHP/5.3.10-1ubuntu3.10 with Suhosin-Patch configured -- resuming normal operations
+[Sun Mar 23 16:20:01 2014] [error] [client 192.168.4.1] File does not exist: /www/www.lezhin.com
+[Sun Mar 23 16:20:02 2014] [error] [client 192.168.4.1] File does not exist: /www/favicon.ico
+[Sun Mar 23 16:20:13 2014] [error] [client 192.168.4.1] File does not exist: /www/www.lezhin.com
+apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2 for ServerName
+[Sun Mar 23 16:34:56 2014] [warn] pid file /var/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 23 16:34:56 2014] [notice] Apache/2.2.22 (Ubuntu) PHP/5.3.10-1ubuntu3.10 with Suhosin-Patch configured -- resuming normal operations
+apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.3 for ServerName
+[Sun Mar 23 16:35:24 2014] [warn] pid file /var/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 23 16:35:24 2014] [notice] Apache/2.2.22 (Ubuntu) PHP/5.3.10-1ubuntu3.10 with Suhosin-Patch configured -- resuming normal operations
+apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.4 for ServerName
+[Sun Mar 23 16:36:04 2014] [warn] pid file /var/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 23 16:36:04 2014] [notice] Apache/2.2.22 (Ubuntu) PHP/5.3.10-1ubuntu3.10 with Suhosin-Patch configured -- resuming normal operations
+apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2 for ServerName
+[Sun Mar 23 16:40:31 2014] [warn] pid file /var/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 23 16:40:31 2014] [notice] Apache/2.2.22 (Ubuntu) PHP/5.3.10-1ubuntu3.10 with Suhosin-Patch configured -- resuming normal operations
+apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2 for ServerName
+[Sun Mar 23 16:44:22 2014] [warn] pid file /var/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 23 16:44:22 2014] [notice] Apache/2.2.22 (Ubuntu) PHP/5.3.10-1ubuntu3.10 with Suhosin-Patch configured -- resuming normal operations
+apache2: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2 for ServerName
+[Sun Mar 23 16:53:36 2014] [warn] pid file /var/run/apache2.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sun Mar 23 16:53:36 2014] [notice] Apache/2.2.22 (Ubuntu) PHP/5.3.10-1ubuntu3.10 with Suhosin-Patch configured -- resuming normal operations
