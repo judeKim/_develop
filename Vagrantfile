@@ -1,7 +1,7 @@
 # -*- mode: ruby -*-
 # vi: set ft=ruby :
 
-BOX_NAME = ENV['BOX_NAME'] || "ubuntu"
+BOX_NAME = ENV['BOX_NAME'] || "_develop"
 BOX_URI = ENV['BOX_URI'] || "http://files.vagrantup.com/precise64.box"
 VF_BOX_URI = ENV['BOX_URI'] || "http://files.vagrantup.com/precise64_vmware_fusion.box"
 AWS_REGION = ENV['AWS_REGION'] || "us-east-1"

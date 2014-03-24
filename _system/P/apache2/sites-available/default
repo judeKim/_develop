@@ -1,7 +1,7 @@
 <VirtualHost *:80>
 	ServerAdmin webmaster@localhost
-	ServerName	test.lezhin.com
-	SetEnv SERVICE_MODE "L"
+	ServerName	www.lezhin.com
+	SetEnv SERVICE_MODE "P"
 
 	DocumentRoot /www
 	<Directory />
